@@ -1,0 +1,5 @@
+package com.onlineshop.bean;
+
+public class LoginTwo {
+
+}
